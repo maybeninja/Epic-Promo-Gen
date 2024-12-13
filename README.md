@@ -1,4 +1,5 @@
 # Epic Games Promo Gen - Promo Codes for Discord
+ (not 100% made by me) 
 
 Epic Games Promo Gen is a tool designed to generate promo codes for Epic Games using Selenium automation. With fast processing speed and proxy support, this tool allows for efficient and scalable generation of promo codes, including for Discord.
 
